@@ -135,14 +135,14 @@ Let's you create multiple instants of a block
 >especially if you have a lot of logged in users
 
 ####For developers
- #####Composer
+#####Composer
  [https://getcomposer.org/]
- #####API and Plugins
+#####API and Plugins
  see slides
 
 ####Configurable view/display modes
-[https://drupal.org/project/entity_view_mode]
->can be cached easily; use it
+[https://drupal.org/project/entity_view_mode]  
+>can be cached easily; use it  
 >DS will probably be depracated in D8
 
 ####CMI
@@ -167,6 +167,8 @@ Let's you create multiple instants of a block
 ##Managing Complex Projects With Design Components
 01.10.2014 - 15:45
 _by John Albin_
+
+[Video and Slides download] (https://amsterdam2014.drupal.org/session/styleguide-driven-development-new-web-development)
 
 Goal: explain AGILE
 
@@ -250,5 +252,5 @@ www.drupal.org/node/1886770
 github.com/kss-node/kss-node
 
 ##The Future of HTML and CSS
-01.10.2014 - 17:00
+01.10.2014 - 17:00  
 https://amsterdam2014.drupal.org/session/future-html-and-css
